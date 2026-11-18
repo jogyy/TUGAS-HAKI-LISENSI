@@ -18,4 +18,4 @@ Nama Brand: Hisana Pencatatan Stok Digital.
 Logo dan Elemen Visual: Logo yang menggambarkan pencatatan stok barang secara digital, dengan desain yang sederhana dan mudah dikenali.
 
 
-<img src="fIMG-20261021-WA0000.jpg" </img>
+<img src="IMG-20261021-WA0000.jpg" </img>
