@@ -5,6 +5,7 @@ A. Identitas Produk Perangkat Lunak
 1. Nama Aplikasi: Hisana Pencatatan Stok Digital
 2. Kategori Produk: Aplikasi pencatatan stok barang.
 3. Deskripsi Singkat Fungsi Aplikasi: Hisana Pencatatan Stok Digital adalah aplikasi yang membantu pegawai Hisana mencatat dan mengelola stok barang secara digital. Aplikasi ini memudahkan pencatatan barang masuk dan keluar agar jumlah stok lebih teratur dan mudah dipantau.
+
 B. Analisis Perlindungan HAKI Produk
 1. Hak Cipta (Copyright)
 Bagian aplikasi yang dapat dilindungi hak cipta meliputi:
