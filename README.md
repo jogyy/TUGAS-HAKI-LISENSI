@@ -1,21 +1,43 @@
 # TUGAS-HAKI-LISENSI
 belajar membuat lisensi dan readme aplikasi.
 
-A. Identitas Produk Perangkat Lunak
-1. Nama Aplikasi: Hisana Pencatatan Stok Digital
-2. Kategori Produk: Aplikasi pencatatan stok barang.
-3. Deskripsi Singkat Fungsi Aplikasi: Hisana Pencatatan Stok Digital adalah aplikasi yang membantu pegawai Hisana mencatat dan mengelola stok barang secara digital. Aplikasi ini memudahkan pencatatan barang masuk dan keluar agar jumlah stok lebih teratur dan mudah dipantau.
+# HISANA STOCK
 
-B. Analisis Perlindungan HAKI Produk
-1. Hak Cipta (Copyright)
-Bagian aplikasi yang dapat dilindungi hak cipta meliputi:
-• Kode sumber (source code) yang digunakan untuk membuat aplikasi.
-• Desain antarmuka aplikasi, seperti tata letak, warna, dan ikon yang dibuat sendiri.
-• Dokumen petunjuk penggunaan aplikasi.
-Pernyataan Hak Cipta: Hak Cipta © 2026 oleh Jogy Edward. Seluruh hak dilindungi undang-undang.
-2. Merek (Trademark)
-Nama Brand: Hisana Pencatatan Stok Digital.
-Logo dan Elemen Visual: Logo yang menggambarkan pencatatan stok barang secara digital, dengan desain yang sederhana dan mudah dikenali.
+## A. Identitas Produk
 
+| Informasi | Keterangan |
+|---|---|
+| **Nama aplikasi** | HISANA STOCK |
+| **Kategori** | Aplikasi pencatatan stok barang |
+| **Deskripsi** | HISANA STOCK membantu pegawai Hisana mencatat dan mengelola stok barang secara digital, sehingga proses pencatatan lebih praktis dan mengurangi ketergantungan pada pencatatan manual. |
+
+## B. Perlindungan Hak Kekayaan Intelektual
+
+### Hak Cipta
+
+Komponen berikut merupakan bagian dari karya HISANA STOCK:
+
+- **Kode sumber**, termasuk frontend yang menggunakan HTML dan CSS serta backend berbasis REST API dengan Node.js.
+- **Desain antarmuka (UI/UX)**, termasuk elemen desain dan konsep visual yang dibuat untuk aplikasi. Aset yang berasal dari Canva tetap tunduk pada ketentuan lisensi Canva yang berlaku.
+- **Dokumentasi pengguna**, termasuk panduan penggunaan aplikasi dalam format PDF.
+
+**Pernyataan hak cipta:**
+
+> Hak Cipta © 2026 Jogy Edward. Seluruh hak dilindungi undang-undang.
+
+### Merek dan Identitas Visual
+
+- **Nama brand:** HISANA STOCK
+- **Logo dan elemen visual:** Logo bergambar ayam dengan lingkaran di bagian tengah, menggunakan warna merah dan dominan kuning.
+
+Nama dan identitas visual HISANA STOCK digunakan untuk membedakan aplikasi ini dari produk lain. Perlindungan merek dan penggunaan nama atau logo mengikuti ketentuan hukum yang berlaku. Perlindungan tersebut berbeda dari lisensi MIT yang mengatur penggunaan kode sumber.
+
+## C. Lisensi Distribusi
+
+HISANA STOCK menggunakan **MIT License**. Lisensi ini memungkinkan orang lain menggunakan, mempelajari, memodifikasi, dan mendistribusikan perangkat lunak, termasuk untuk tujuan komersial, dengan tetap menyertakan pemberitahuan hak cipta dan teks lisensi.
+
+Lisensi MIT berlaku untuk perangkat lunak yang didistribusikan dalam repository ini. Lisensi tersebut tidak dengan sendirinya memberikan hak atas nama, logo, atau merek HISANA STOCK.
+
+Lihat berkas [`LICENSE`](LICENSE) untuk teks lisensi selengkapnya.
 
 <img src="IMG-20261021-WA0000.jpg" alt="Foto Aplikasi" width="300">
